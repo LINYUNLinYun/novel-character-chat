@@ -7,3 +7,4 @@ __pycache__/*
 *.bin
 extract-dialogue/__pycache__/*
 extract-dialogue/log/*
+.gradio/*
