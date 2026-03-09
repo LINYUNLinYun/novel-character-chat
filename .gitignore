@@ -1,0 +1,9 @@
+log/*
+LLM-Research/*
+output/*
+__pycache__/*
+*.log
+*.pt
+*.bin
+extract-dialogue/__pycache__/*
+extract-dialogue/log/*

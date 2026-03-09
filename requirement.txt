@@ -1,0 +1,8 @@
+openai
+tiktoken
+tqdm
+python-dotenv
+gradio
+transformers==4.43.1
+accelerate==0.32.1
+peft==0.11.1
